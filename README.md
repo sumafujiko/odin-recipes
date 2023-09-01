@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project that I have created based on The Odin Project that had a step by step procedure on how to make a html website. 
