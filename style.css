@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+.start {
+    text-align: center;
+    background-color: rgb(14, 13, 13);
+    color: rgb(68, 0, 255);
+    font-weight: 700;
+}
+
+.block {
+    text-align: center;
+}
+
+.block img {
+    height: auto;
+    width: 500px;
+}
+
+
+html {
+    background-color: black;
+    color: white;
+}
